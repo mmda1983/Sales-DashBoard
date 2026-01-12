@@ -116,8 +116,8 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 ```
+📷 https://github.com/mmda1983/Sales-DashBoard/blob/main/Sales_DashBoard.jpg
 
-https://github.com/mmda1983/Sales-DashBoard/blob/main/Sales_DashBoard.jpg
 
 ---
 
